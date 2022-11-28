@@ -1,3 +1,7 @@
 .c{
-    position:"relative";
+    position:relative;
+}
+.button{
+    position: absolute;
+    color: red;
 }
